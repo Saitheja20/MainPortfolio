@@ -155,7 +155,7 @@ section {
 }
 /*||||||||||||||||||| large desktops and laptops|||||||||||| */
 
-@media (min-width :965px) and (max-width:1600px) {
+@media (min-width :965px) and (max-width:1900px) {
     /* heading and photo content starts */
     .navbar-brand{
         margin-left: 50px;
