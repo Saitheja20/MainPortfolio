@@ -21,7 +21,7 @@
 }
 .menus:hover{
     background: linear-gradient(to left, rgb(133,139,139) 50%, black 50%);
-        /* background-size: 200% 100%; */
+        /* background-size: 200% 300%; */
         background-position:left  bottom;
         transition: all .5s ease-in-out;
 }
@@ -243,3 +243,4 @@ section {
         position: relative;
     }
 }
+
